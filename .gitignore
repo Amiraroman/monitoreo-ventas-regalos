@@ -1,0 +1,15 @@
+# Entornos y temporales
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.vscode/
+.DS_Store
+sitio/
+# Credenciales (nunca subir)
+.env
+*.pem
+*.key
+secrets*
+ventas_regalos_2011.csv

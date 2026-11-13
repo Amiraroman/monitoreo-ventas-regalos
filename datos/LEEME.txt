@@ -1,0 +1,1 @@
+Copia aquí referencia.csv, control.csv, nuevo.csv y actual.csv (ver README)
